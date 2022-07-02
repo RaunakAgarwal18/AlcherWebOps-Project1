@@ -1,0 +1,60 @@
+div{
+    display: inline-block;
+}
+#AlcherConnect{
+    margin-left: 110px;
+    margin-top: 30px;
+    width: 100%;
+    font-family: cursive;
+}
+#text1{
+    margin-left: 15px;
+    margin-right: 7px;
+    width: 20%;
+    font-size: xx-large;
+    color: gray;
+}
+#text2{
+    font-size: xx-large;
+    color: orange;
+}
+#topBar{
+    width: 100%;
+    margin-top: 40px;
+    margin-left: 115px;
+}
+.post1{
+    width: 20%;
+    margin: 40px;
+    margin-left: 115px;
+    border-radius: 5px;
+    box-shadow: 0 0 4px 4px lightgrey;
+}
+.scenery{
+    display: inline;
+    margin: 0 auto;
+    height: 100px;
+    width: auto;
+}
+.imagecropper{
+    width: 25px;
+    height: 25px;
+    position: relative;
+    left: 30px;
+    top: 10px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+#mypost{
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-right: 1000px;
+}
+a:hover{
+    color: orange;
+    font-size: larger;
+}
+#goBAck{
+    font-size: x-large;
+    color: grey;
+}
